@@ -315,7 +315,7 @@
       <attributes/>
       <specification_method>filename</specification_method>
       <trans_object_id/>
-      <filename>C:/Chandan/WorkSpace/Pentaho/pentaho-ci-co-test/pentaho-test/a.ktr</filename>
+      <filename>${Internal.Entry.Current.Directory}/a.ktr</filename>
       <transname/>
       <arg_from_previous>N</arg_from_previous>
       <params_from_previous>N</params_from_previous>
